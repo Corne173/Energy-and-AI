@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "Energy and AI"
+  author: "Corne van Zyl"
+  chapters:
+    - index.qmd
+    - ai_definition.qmd
+    - ai_models.qmd
+    - ai_tools.qmd
+    - ai_in_agriculture.qmd
+    - ai_power_generation.qmd
+    - ai_transmission.qmd
+    - ai_distribution.qmd
+    - ai_industry.qmd
+    - references.qmd
+
+format:
+  html:
+    theme: cosmo
+    number-sections: true
+    link-citations: true  # <--- Add this line
+
+bibliography: references.bib
+csl: ieee.csl
+
+publish:
+  method: gh-pages

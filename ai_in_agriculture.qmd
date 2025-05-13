@@ -1,0 +1,10 @@
+---
+title: "Ai In Agriculture"
+format: html
+---
+
+# AI in Agriculture
+
+## Banana Disease Detection
+
+## Potato & Tomato Classification

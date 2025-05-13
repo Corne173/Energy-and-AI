@@ -1,0 +1,12 @@
+# AI Definition
+
+## AI History
+
+![](AI development.png)
+
+## An overall flowchart for the ML technique
+![](An overall flowchart for the ML technique.jpg)
+
+Yaghoubi, E., Yaghoubi, E., Khamees, A., Razmi, D. and Lu, T., 2024. A systematic review and meta-analysis of machine learning, deep learning, and ensemble learning approaches in predicting EV charging behavior. Engineering Applications of Artificial Intelligence, 135, p.108789.
+
+## Types of AI
