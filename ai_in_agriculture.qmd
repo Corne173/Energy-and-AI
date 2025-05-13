@@ -1,10 +1,18 @@
----
-title: "Ai In Agriculture"
-format: html
----
-
 # AI in Agriculture
 
 ## Banana Disease Detection
 
+![AI-powered banana disease detection](banana.jpg)
+
+Selvaraj *et al.* developed an AI-powered system for banana pest and disease detection [@selvaraj2019banana].
+
++ Improves early identification of diseases  
++ Reduces dependence on manual inspection  
++ Potential to scale across plantations  
+
+
 ## Potato & Tomato Classification
+
+![Deep Vision Transformer used for potato and tomato disease classification](leaf.jpg)
+
+Kamal *et al.* proposed a DVTXAI model, combining deep vision transformers with explainable AI for classifying plant diseases [@kamal2025dvtxai].

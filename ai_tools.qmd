@@ -1,10 +1,7 @@
----
-title: "AI Tools"
-format: html
----
+# AI Tools
 
 
-## Programming Languages {#programming-languages}
+## Programming Languages
 
 At the core of any AI application is the programming language used to build it. The most prominent languages include:
 
@@ -19,7 +16,7 @@ At the core of any AI application is the programming language used to build it. 
 
 ---
 
-## Machine Learning and Deep Learning Libraries {#machine-learning-libraries}
+## Machine Learning and Deep Learning Libraries
 
 AI development is driven by libraries that provide pre-built implementations of algorithms and neural network layers:
 
@@ -33,7 +30,7 @@ AI development is driven by libraries that provide pre-built implementations of 
 
 - **XGBoost**, **LightGBM**, **CatBoost**: Gradient boosting frameworks designed for speed and performance, especially in tabular data modeling competitions like those on Kaggle.
 
-### Hardware Accelerators {#hardware-accelerators}
+## Hardware Accelerators
 
 Training AI models, particularly deep learning networks, is computationally intensive:
 
@@ -45,8 +42,3 @@ Training AI models, particularly deep learning networks, is computationally inte
 
 
 
-
-
-## EV Charging Infrastructure
-
-## Autonomous Driving

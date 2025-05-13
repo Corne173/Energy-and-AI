@@ -1,7 +1,5 @@
----
-title: "AI Models"
-format: html
----
+#AI Models
+
 
 ## Supervised Learning
 
