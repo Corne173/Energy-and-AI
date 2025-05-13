@@ -1,0 +1,34 @@
+# Introduction 
+
+This site explores the intersection of **Artificial Intelligence (AI)** and the **energy sector**, showcasing its applications, benefits, and research opportunities.
+
+---
+
+## About This Site {.unnumbered}
+
+This project outlines the motivation, context, and key technical components involved in applying AI to energy systems such as:
+- Renewable energy forecasting
+- Grid optimization
+- Fault detection
+- Load balancing
+
+You can navigate the site using the menu above to learn more about each area.
+
+---
+
+## Sections {.unnumbered}
+
+- **[What is AI?](ai_definition.qmd)**  
+  A plain-language explanation of AI, including relevant subfields like machine learning and deep learning.
+
+- **Methodology** *(if added)*  
+  A breakdown of how AI methods are applied in energy projects.
+
+- **Results or Case Studies** *(optional)*  
+  Examples or summaries of successful applications of AI in the energy sector.
+
+- **References**  
+  Supporting literature, datasets, or standards.
+
+---
+

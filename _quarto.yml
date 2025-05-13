@@ -2,10 +2,10 @@ project:
   type: book
 
 book:
-  title: "Energy and AI"
-  author: "Corne van Zyl"
+  
   chapters:
     - index.qmd
+    - intro.qmd
     - ai_definition.qmd
     - ai_models.qmd
     - ai_tools.qmd

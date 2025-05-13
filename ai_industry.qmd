@@ -1,8 +1,3 @@
----
-title: "AI Industry"
-format: html
----
-
 # AI in Industry
 
 Content by Corne.
