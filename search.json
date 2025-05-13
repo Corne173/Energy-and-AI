@@ -2,261 +2,231 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Energy and AI",
+    "title": "Cover page",
     "section": "",
-    "text": "Welcome\nThis site explores the intersection of Artificial Intelligence (AI) and the energy sector, showcasing its applications, benefits, and research opportunities.",
+    "text": "Energy and Artificial Intelligence\n\n\nExploring the Role of AI Across the Energy Sector\n\n\nCompiled by CNESS Team\n\n\n2025",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Energy and AI</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cover page</span>"
     ]
   },
   {
-    "objectID": "index.html#about-this-site",
-    "href": "index.html#about-this-site",
-    "title": "Energy and AI",
-    "section": "About This Site",
-    "text": "About This Site\nThis project outlines the motivation, context, and key technical components involved in applying AI to energy systems such as: - Renewable energy forecasting - Grid optimization - Fault detection - Load balancing\nYou can navigate the site using the menu above to learn more about each area.",
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "About This Site\nThis site explores the intersection of Artificial Intelligence (AI) and the energy sector, showcasing its applications, benefits, and research opportunities.\nThis project outlines the motivation, context, and key technical components involved in applying AI to energy systems such as: - Renewable energy forecasting - Grid optimization - Fault detection - Load balancing\nYou can navigate the site using the menu above to learn more about each area.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Energy and AI</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
-    "objectID": "index.html#sections",
-    "href": "index.html#sections",
-    "title": "Energy and AI",
+    "objectID": "intro.html#sections",
+    "href": "intro.html#sections",
+    "title": "2  Introduction",
     "section": "Sections",
     "text": "Sections\n\nWhat is AI?\nA plain-language explanation of AI, including relevant subfields like machine learning and deep learning.\nMethodology (if added)\nA breakdown of how AI methods are applied in energy projects.\nResults or Case Studies (optional)\nExamples or summaries of successful applications of AI in the energy sector.\nReferences\nSupporting literature, datasets, or standards.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Energy and AI</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#author",
-    "href": "index.html#author",
-    "title": "Energy and AI",
-    "section": "Author",
-    "text": "Author\nCorne van Zyl\nUniversity of Pretoria\nEmail: c.vanzyl@tuks.co.za",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Energy and AI</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
     "objectID": "ai_definition.html",
     "href": "ai_definition.html",
-    "title": "2  AI Definition",
+    "title": "3  AI Definition",
     "section": "",
-    "text": "2.1 AI History",
+    "text": "3.1 AI History",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>AI Definition</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI Definition</span>"
     ]
   },
   {
     "objectID": "ai_definition.html#an-overall-flowchart-for-the-ml-technique",
     "href": "ai_definition.html#an-overall-flowchart-for-the-ml-technique",
-    "title": "2  AI Definition",
-    "section": "2.2 An overall flowchart for the ML technique",
-    "text": "2.2 An overall flowchart for the ML technique\n\nYaghoubi, E., Yaghoubi, E., Khamees, A., Razmi, D. and Lu, T., 2024. A systematic review and meta-analysis of machine learning, deep learning, and ensemble learning approaches in predicting EV charging behavior. Engineering Applications of Artificial Intelligence, 135, p.108789.",
+    "title": "3  AI Definition",
+    "section": "3.2 An overall flowchart for the ML technique",
+    "text": "3.2 An overall flowchart for the ML technique\n\nYaghoubi, E., Yaghoubi, E., Khamees, A., Razmi, D. and Lu, T., 2024. A systematic review and meta-analysis of machine learning, deep learning, and ensemble learning approaches in predicting EV charging behavior. Engineering Applications of Artificial Intelligence, 135, p.108789.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>AI Definition</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI Definition</span>"
     ]
   },
   {
     "objectID": "ai_definition.html#types-of-ai",
     "href": "ai_definition.html#types-of-ai",
-    "title": "2  AI Definition",
-    "section": "2.3 Types of AI",
-    "text": "2.3 Types of AI",
+    "title": "3  AI Definition",
+    "section": "3.3 Types of AI",
+    "text": "3.3 Types of AI",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>AI Definition</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI Definition</span>"
     ]
   },
   {
     "objectID": "ai_models.html",
     "href": "ai_models.html",
-    "title": "3  AI Models",
+    "title": "4  Supervised Learning",
     "section": "",
-    "text": "3.1 Supervised Learning\n(ANN,rnn,cnn) dumo",
+    "text": "4.1 Unsupervised Learning\n#AI Models\n(ANN,rnn,cnn) dumo\n(K-MEAN) sakhile",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI Models</span>"
-    ]
-  },
-  {
-    "objectID": "ai_models.html#unsupervised-learning",
-    "href": "ai_models.html#unsupervised-learning",
-    "title": "3  AI Models",
-    "section": "3.2 Unsupervised Learning",
-    "text": "3.2 Unsupervised Learning\n(K-MEAN) sakhile",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI Models</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Supervised Learning</span>"
     ]
   },
   {
     "objectID": "ai_models.html#reinforcement-learning",
     "href": "ai_models.html#reinforcement-learning",
-    "title": "3  AI Models",
-    "section": "3.3 Reinforcement Learning",
-    "text": "3.3 Reinforcement Learning\nReinforcement Learning discover which actions yield the most reward.",
+    "title": "4  Supervised Learning",
+    "section": "4.2 Reinforcement Learning",
+    "text": "4.2 Reinforcement Learning\nReinforcement Learning discover which actions yield the most reward.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI Models</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Supervised Learning</span>"
     ]
   },
   {
     "objectID": "ai_models.html#generative-models",
     "href": "ai_models.html#generative-models",
-    "title": "3  AI Models",
-    "section": "3.4 Generative Models",
-    "text": "3.4 Generative Models",
+    "title": "4  Supervised Learning",
+    "section": "4.3 Generative Models",
+    "text": "4.3 Generative Models",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI Models</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Supervised Learning</span>"
     ]
   },
   {
     "objectID": "ai_models.html#generative-models-1",
     "href": "ai_models.html#generative-models-1",
-    "title": "3  AI Models",
-    "section": "3.5 Generative Models",
-    "text": "3.5 Generative Models",
+    "title": "4  Supervised Learning",
+    "section": "4.4 Generative Models",
+    "text": "4.4 Generative Models",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI Models</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Supervised Learning</span>"
     ]
   },
   {
     "objectID": "ai_models.html#generative-ai-models-dong",
     "href": "ai_models.html#generative-ai-models-dong",
-    "title": "3  AI Models",
-    "section": "3.6 Generative AI Models DONG",
-    "text": "3.6 Generative AI Models DONG\n\n\n\n\n\n\n\n\n\n\n\nType of AI\nCore Breakthrough\nHuman Analogy\nKey Differentiator\nCommon Techniques\nPractical Examples\n\n\n\n\nWeak AI\nExecution (Task Performance)\nTool\nCan only complete narrow tasks, not generalize or transfer\nSupervised learning, rule-based systems, decision trees\nImage classification, speech recognition, recommendation systems\n\n\nHuman-like AI\nImitation (Reactive Simulation)\nActor / Mimicker\nHas ‘human-like expression’ but lacks contextual understanding and goals\nNLP, speech recognition, affective computing\nCustomer service bots, social robots, virtual shopping assistants\n\n\nHuman-level AI\nThinking (Multi-task Reasoning)\nIntern\nCan ‘perform like a human’ across multiple tasks\nDeep learning (DL), reinforcement learning (RL), transfer learning\nAlphaGo, ChatGPT, multimodal Q&A systems\n\n\nArtificial General Intelligence (AGI)\nGeneral Adaptability (Cross-domain Learning)\nColleague / Researcher\nNot only performs tasks like a human, but can generalize and innovate\nMeta-learning, cross-modal learning, self-supervised learning\nHypothetical OpenCog, DeepMind’s Gato\n\n\nStrong AI\nSelf-awareness and Moral Judgment\nIndependent Human Individual\nUnderstands ‘why’ something is done, not just ‘how’\nExplainable AI, causal inference, emotion modeling networks\nAI-assisted legal decision systems, interactive mental health AI tools\n\n\nArtificial Superintelligence (ASI)\nSuperhuman Capability + Self-Improvement\nDeity / Super Being\nBeyond human cognition, unpredictable intentions and paths\nNeuroarchitecture search, self-evolving algorithms\nAI-led climate modeling, AutoML, AGI governance research (theoretical only)\n\n\n\nFrom: [1]\n\n\n\n\n[1] R. Raman, R. Kowalski, K. Achuthan, et al., “Navigating artificial general intelligence development: Societal, technological, ethical, and brain-inspired pathways,” Scientific Reports, vol. 15, no. 1, pp. 1–22, 2025.",
+    "title": "4  Supervised Learning",
+    "section": "4.5 Generative AI Models DONG",
+    "text": "4.5 Generative AI Models DONG\n\n\n\n\n\n\n\n\n\n\n\nType of AI\nCore Breakthrough\nHuman Analogy\nKey Differentiator\nCommon Techniques\nPractical Examples\n\n\n\n\nWeak AI\nExecution (Task Performance)\nTool\nCan only complete narrow tasks, not generalize or transfer\nSupervised learning, rule-based systems, decision trees\nImage classification, speech recognition, recommendation systems\n\n\nHuman-like AI\nImitation (Reactive Simulation)\nActor / Mimicker\nHas ‘human-like expression’ but lacks contextual understanding and goals\nNLP, speech recognition, affective computing\nCustomer service bots, social robots, virtual shopping assistants\n\n\nHuman-level AI\nThinking (Multi-task Reasoning)\nIntern\nCan ‘perform like a human’ across multiple tasks\nDeep learning (DL), reinforcement learning (RL), transfer learning\nAlphaGo, ChatGPT, multimodal Q&A systems\n\n\nArtificial General Intelligence (AGI)\nGeneral Adaptability (Cross-domain Learning)\nColleague / Researcher\nNot only performs tasks like a human, but can generalize and innovate\nMeta-learning, cross-modal learning, self-supervised learning\nHypothetical OpenCog, DeepMind’s Gato\n\n\nStrong AI\nSelf-awareness and Moral Judgment\nIndependent Human Individual\nUnderstands ‘why’ something is done, not just ‘how’\nExplainable AI, causal inference, emotion modeling networks\nAI-assisted legal decision systems, interactive mental health AI tools\n\n\nArtificial Superintelligence (ASI)\nSuperhuman Capability + Self-Improvement\nDeity / Super Being\nBeyond human cognition, unpredictable intentions and paths\nNeuroarchitecture search, self-evolving algorithms\nAI-led climate modeling, AutoML, AGI governance research (theoretical only)\n\n\n\nFrom: [1]\n\n\n\n\n[1] R. Raman, R. Kowalski, K. Achuthan, et al., “Navigating artificial general intelligence development: Societal, technological, ethical, and brain-inspired pathways,” Scientific Reports, vol. 15, no. 1, pp. 1–22, 2025.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI Models</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Supervised Learning</span>"
     ]
   },
   {
     "objectID": "ai_tools.html",
     "href": "ai_tools.html",
-    "title": "4  AI Tools",
+    "title": "5  AI Tools",
     "section": "",
-    "text": "4.1 Programming Languages\nAt the core of any AI application is the programming language used to build it. The most prominent languages include:",
+    "text": "5.1 Programming Languages\nAt the core of any AI application is the programming language used to build it. The most prominent languages include:",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>AI Tools</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>AI Tools</span>"
     ]
   },
   {
     "objectID": "ai_tools.html#programming-languages",
     "href": "ai_tools.html#programming-languages",
-    "title": "4  AI Tools",
+    "title": "5  AI Tools",
     "section": "",
     "text": "Python: Dominates the AI ecosystem due to its readability, vast collection of AI/ML libraries (e.g., TensorFlow, PyTorch, Scikit-learn), and strong community support.\nR: Preferred in statistics-heavy applications, especially for data visualization and exploratory analysis.\nJava and C++: Used in large-scale or real-time systems, such as search engines or embedded systems.\nJulia: Gaining popularity for high-performance numerical computing in AI research.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>AI Tools</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>AI Tools</span>"
     ]
   },
   {
-    "objectID": "ai_tools.html#machine-learning-libraries",
-    "href": "ai_tools.html#machine-learning-libraries",
-    "title": "4  AI Tools",
-    "section": "4.2 Machine Learning and Deep Learning Libraries",
-    "text": "4.2 Machine Learning and Deep Learning Libraries\nAI development is driven by libraries that provide pre-built implementations of algorithms and neural network layers:\n\nScikit-learn: A powerful toolkit for classical machine learning algorithms like linear regression, k-means, and support vector machines.\nTensorFlow: A flexible, end-to-end open-source platform by Google for numerical computation and large-scale machine learning, with support for distributed training.\nPyTorch: Developed by Meta (Facebook), it is known for its dynamic computation graph and is widely used in academic research and industrial prototyping.\nKeras: A high-level deep learning API running on top of TensorFlow, designed for ease of use and fast experimentation.\nXGBoost, LightGBM, CatBoost: Gradient boosting frameworks designed for speed and performance, especially in tabular data modeling competitions like those on Kaggle.\n\n\n4.2.1 Hardware Accelerators\nTraining AI models, particularly deep learning networks, is computationally intensive:\n\nGPUs (Graphics Processing Units): Enable parallel processing for matrix-heavy operations in neural networks.\nTPUs (Tensor Processing Units): Google’s custom-developed ASICs optimized for TensorFlow operations.\nFPGAs (Field Programmable Gate Arrays): Offer flexible, hardware-level customization for AI tasks in edge devices.",
+    "objectID": "ai_tools.html#machine-learning-and-deep-learning-libraries",
+    "href": "ai_tools.html#machine-learning-and-deep-learning-libraries",
+    "title": "5  AI Tools",
+    "section": "5.2 Machine Learning and Deep Learning Libraries",
+    "text": "5.2 Machine Learning and Deep Learning Libraries\nAI development is driven by libraries that provide pre-built implementations of algorithms and neural network layers:\n\nScikit-learn: A powerful toolkit for classical machine learning algorithms like linear regression, k-means, and support vector machines.\nTensorFlow: A flexible, end-to-end open-source platform by Google for numerical computation and large-scale machine learning, with support for distributed training.\nPyTorch: Developed by Meta (Facebook), it is known for its dynamic computation graph and is widely used in academic research and industrial prototyping.\nKeras: A high-level deep learning API running on top of TensorFlow, designed for ease of use and fast experimentation.\nXGBoost, LightGBM, CatBoost: Gradient boosting frameworks designed for speed and performance, especially in tabular data modeling competitions like those on Kaggle.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>AI Tools</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>AI Tools</span>"
     ]
   },
   {
-    "objectID": "ai_tools.html#ev-charging-infrastructure",
-    "href": "ai_tools.html#ev-charging-infrastructure",
-    "title": "4  AI Tools",
-    "section": "4.3 EV Charging Infrastructure",
-    "text": "4.3 EV Charging Infrastructure",
+    "objectID": "ai_tools.html#hardware-accelerators",
+    "href": "ai_tools.html#hardware-accelerators",
+    "title": "5  AI Tools",
+    "section": "5.3 Hardware Accelerators",
+    "text": "5.3 Hardware Accelerators\nTraining AI models, particularly deep learning networks, is computationally intensive:\n\nGPUs (Graphics Processing Units): Enable parallel processing for matrix-heavy operations in neural networks.\nTPUs (Tensor Processing Units): Google’s custom-developed ASICs optimized for TensorFlow operations.\nFPGAs (Field Programmable Gate Arrays): Offer flexible, hardware-level customization for AI tasks in edge devices.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>AI Tools</span>"
-    ]
-  },
-  {
-    "objectID": "ai_tools.html#autonomous-driving",
-    "href": "ai_tools.html#autonomous-driving",
-    "title": "4  AI Tools",
-    "section": "4.4 Autonomous Driving",
-    "text": "4.4 Autonomous Driving",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>AI Tools</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>AI Tools</span>"
     ]
   },
   {
     "objectID": "ai_in_agriculture.html",
     "href": "ai_in_agriculture.html",
-    "title": "5  Ai In Agriculture",
+    "title": "6  AI in Agriculture",
     "section": "",
-    "text": "6 AI in Agriculture",
+    "text": "6.1 Banana Disease Detection\nSelvaraj et al. developed an AI-powered system for banana pest and disease detection [1].",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Ai In Agriculture</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>AI in Agriculture</span>"
     ]
   },
   {
     "objectID": "ai_in_agriculture.html#banana-disease-detection",
     "href": "ai_in_agriculture.html#banana-disease-detection",
-    "title": "5  Ai In Agriculture",
-    "section": "6.1 Banana Disease Detection",
-    "text": "6.1 Banana Disease Detection",
+    "title": "6  AI in Agriculture",
+    "section": "",
+    "text": "AI-powered banana disease detection\n\n\n\n\nImproves early identification of diseases\n\nReduces dependence on manual inspection\n\nPotential to scale across plantations",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Ai In Agriculture</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>AI in Agriculture</span>"
     ]
   },
   {
     "objectID": "ai_in_agriculture.html#potato-tomato-classification",
     "href": "ai_in_agriculture.html#potato-tomato-classification",
-    "title": "5  Ai In Agriculture",
+    "title": "6  AI in Agriculture",
     "section": "6.2 Potato & Tomato Classification",
-    "text": "6.2 Potato & Tomato Classification",
+    "text": "6.2 Potato & Tomato Classification\n\n\n\nDeep Vision Transformer used for potato and tomato disease classification\n\n\nKamal et al. proposed a DVTXAI model, combining deep vision transformers with explainable AI for classifying plant diseases [2].\n\n\n\n\n[1] M. G. Selvaraj, A. Vergara, H. Ruiz, et al., “AI-powered banana diseases and pest detection,” Plant Methods, vol. 15, pp. 1–11, 2019.\n\n\n[2] S. Kamal, P. Sharma, P. K. Gupta, et al., “DVTXAI: a novel deep vision transformer with an explainable AI-based framework and its application in agriculture,” The Journal of Supercomputing, vol. 81, no. 1, pp. 1–32, 2025.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Ai In Agriculture</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>AI in Agriculture</span>"
     ]
   },
   {
     "objectID": "ai_power_generation.html",
     "href": "ai_power_generation.html",
-    "title": "6  AI Power Generation",
+    "title": "7  AI Power Generation",
     "section": "",
     "text": "Content by Corne.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>AI Power Generation</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>AI Power Generation</span>"
     ]
   },
   {
     "objectID": "ai_transmission.html",
     "href": "ai_transmission.html",
-    "title": "7  AI Transmission",
+    "title": "8  AI Transmission",
     "section": "",
-    "text": "8 AI in Transmission\nContent by Sakhile.",
+    "text": "9 AI in Transmission\nContent by Sakhile.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>AI Transmission</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>AI Transmission</span>"
     ]
   },
   {
     "objectID": "ai_distribution.html",
     "href": "ai_distribution.html",
-    "title": "8  AI in Distribution",
+    "title": "9  AI in Distribution",
     "section": "",
     "text": "Content by Sakhile. asjsjsjjsdj",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>AI in Distribution</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>AI in Distribution</span>"
     ]
   },
   {
     "objectID": "ai_industry.html",
     "href": "ai_industry.html",
-    "title": "9  AI Industry",
+    "title": "10  AI in Industry",
     "section": "",
-    "text": "10 AI in Industry\nContent by Corne.",
+    "text": "Content by Corne.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>AI Industry</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>AI in Industry</span>"
     ]
   },
   {
     "objectID": "references.html",
     "href": "references.html",
-    "title": "10  References",
+    "title": "References",
     "section": "",
-    "text": "[1] R.\nRaman, R. Kowalski, K. Achuthan, et al., “Navigating\nartificial general intelligence development: Societal, technological,\nethical, and brain-inspired pathways,” Scientific\nReports, vol. 15, no. 1, pp. 1–22, 2025.",
+    "text": "[1] R.\nRaman, R. Kowalski, K. Achuthan, et al., “Navigating\nartificial general intelligence development: Societal, technological,\nethical, and brain-inspired pathways,” Scientific\nReports, vol. 15, no. 1, pp. 1–22, 2025.\n\n\n[2] M.\nG. Selvaraj, A. Vergara, H. Ruiz, et al., “AI-powered banana diseases and pest\ndetection,” Plant Methods, vol. 15, pp. 1–11,\n2019.\n\n\n[3] S.\nKamal, P. Sharma, P. K. Gupta, et al., “DVTXAI: a novel deep vision transformer with an\nexplainable AI-based framework and its application in\nagriculture,” The Journal of Supercomputing, vol.\n81, no. 1, pp. 1–32, 2025.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>References</span>"
+      "References"
     ]
   }
 ]
