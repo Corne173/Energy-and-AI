@@ -63,27 +63,64 @@ quarto preview
    git checkout -b my-feature-branch
    ```
 
+   - Replace my-feature-branch with a descriptive name (e.g., `gang-edits` or `sakhile-ai-chapter`). This command creates a new branch and switches to it.
+   This command only needs to be run once. You'll make all your changes on this branch. Later, this branch can be merged into the main branch so everyone’s work comes together.
+
 2. **Add or edit content**:  
-   - New chapters: create a file like `new-section.qmd` in the `source/` folder.  
-   - Edit existing files under `source/`.
+   - **To add a new chapter:** Create a new `.qmd` file (e.g., `my-topic.qmd`) in the main project folder. Use the template below to get started:
+     ```yaml
+     ---
+     title: "Chapter Title"
+     format: html
+     ---
+     # Chapter Title
 
-3. **Preview** your changes locally:
+     Your content here.
+     ```
+   - **To edit existing content:** Open any of the `.qmd` files (such as , , etc.) in your editor and make your changes.
+   - **Add images:** Place images in an `images/` folder (create it if it doesn't exist) and reference them in your `.qmd` files with `![](images/your-image.png)`.
+   - **Cite sources:** Add references to  and cite them in your text using `[@citationKey]`.
 
-   ```bash
-   quarto preview
-   ```
+**Tip:** To view your changes, you first have to stop the previous preview by pressing `Ctrl + C` in the terminal. Then, run `quarto preview` again to see your changes.
 
 ---
 
 ## ✅ Committing & Pushing
 
-Once you’re happy with your changes:
+Once you’re happy with your changes, you need to save them to GitHub.  
+You can do this using **either the terminal or the VS Code interface**:
+
+---
+
+### Option 1: Using the Terminal
 
 ```bash
 git add .
 git commit -m "Describe your change succinctly"
 git push origin my-feature-branch
 ```
+
+---
+
+### Option 2: Using VS Code (No Terminal Needed)
+
+1. **Open the Source Control panel**  
+   Click the Source Control icon (the branch icon) on the left sidebar.
+
+2. **Stage your changes**  
+   - You’ll see a list of changed files.  
+   - Click the **+** icon next to each file, or click the **+** at the top to stage all.
+
+3. **Commit your changes**  
+   - Enter a short description in the message box (e.g., “Add new chapter on AI in energy”).  
+   - Click the **checkmark** (✔) button to commit.
+
+4. **Push your branch to GitHub**  
+   - Click the **…** (More Actions) menu at the top of the Source Control panel.  
+   - Select **Push** (or **Push to...** if prompted).
+
+
+Now your changes are saved to your branch on GitHub! Next you can create a Pull Request to merge your changes into the main branch.
 
 ---
 
