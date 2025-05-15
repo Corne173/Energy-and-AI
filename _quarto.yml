@@ -13,6 +13,7 @@ book:
     - ai_definition.qmd
     - ai_models.qmd
     - ai_tools.qmd
+    - applications.qmd
     - ai_in_agriculture.qmd
     - ai_power_generation.qmd
     - ai_transmission.qmd

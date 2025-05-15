@@ -1,0 +1,121 @@
+---
+title: Energy and AI
+author: CNES
+format:
+  revealjs:
+    incremental: false
+    scrollable: true
+    smaller: true
+    theme: simple
+jupyter:
+  kernelspec:
+    display_name: Python [conda env:base] *
+    language: python
+    name: conda-base-py
+---
+
+# AI Definition gang
+
+## AI History
+![](AI development.png)
+
+## An overall flowchart for the ML technique
+![](An overall flowchart for the ML technique.jpg)
+
+Yaghoubi, E., Yaghoubi, E., Khamees, A., Razmi, D. and Lu, T., 2024. A systematic review and meta-analysis of machine learning, deep learning, and ensemble learning approaches in predicting EV charging behavior. Engineering Applications of Artificial Intelligence, 135, p.108789.
+
+# AI model
+
+## Supervised Learning Models (ANN,rnn,cnn) dumo
+
+## Unsupervised Learning Models (K-MEAN) sakhile
+
+## Reinforcement Learning
+Reinforcement Learning discover which actions yield the most reward.
+![Reinforcement learning framework](RL.png)
+
+## Generative AI Models DONG
+
+| Type of AI                            | Core Breakthrough                            | Human Analogy                | Key Differentiator                                                       | Common Techniques                                                                   | Practical Examples                                                                    |
+|:--------------------------------------|:---------------------------------------------|:-----------------------------|:-------------------------------------------------------------------------|:------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|
+| Weak AI                               | Execution (Task Performance)                 | Tool                         | Can only complete narrow tasks, not generalize or transfer               | Supervised learning, rule-based systems, decision trees                             | Image classification, speech recognition, recommendation systems                      |
+| Human-like AI                         | Imitation (Reactive Simulation)              | Actor / Mimicker             | Has 'human-like expression' but lacks contextual understanding and goals | NLP, speech recognition, affective computing                | Customer service bots, social robots, virtual shopping assistants                     |
+| Human-level AI                        | Thinking (Multi-task Reasoning)              | Intern                       | Can 'perform like a human' across multiple tasks                         | DL, RL, transfer learning                            | AlphaGo, ChatGPT, multimodal Q&A systems                                              |
+| Artificial General Intelligence (AGI) | General Adaptability (Cross-domain Learning) | Colleague / Researcher       | Not only performs tasks like a human, but can generalize and innovate    | Meta-learning, cross-modal learning, self-supervised learning                       | Hypothetical OpenCog, DeepMind’s Gato                                                 |
+| Strong AI                             | Self-awareness and Moral Judgment            | Independent Human Individual | Understands 'why' something is done, not just 'how'                      | Explainable AI, causal inference, emotion modeling networks                         | AI-assisted legal decision systems, interactive mental health AI (human-aiding tools) |
+| Artificial Superintelligence (ASI)    | Superhuman Capability + Self-Improvement     | Deity / Super Being          | Beyond human cognition, unpredictable intentions and paths               | Theoretical approaches including neuroarchitecture search, self-evolving algorithms | AI-led climate modeling, AutoML, AGI governance research (still theoretical)          |
+
+<p style="font-size: 12px; font-style: italic;">
+From: Raman R, Kowalski R, Achuthan K, et al. Navigating artificial general intelligence development: societal, technological, ethical, and brain-inspired pathways[J]. Scientific Reports, 2025, 15(1): 1-22.
+</p>
+
+#Artificial general intelligence 
+![AI Table](AGI.png)
+
+# AI tool CORNE
+FUNCTION AND RELATIONSHIP
+
+# AI application in building dumo
+
+## AI application in charging infrastructure
++ Charging station placement and sizing optimization
++ Charging demand and charging station utilization forecasting
++ Charge and discharging control and coordination
++ Dynamic charging pricing
++ Electric vehicle routing, navigation and charging station selection
+
+## EV charging scheduling based on reinforcement learning
+![Wan, Z., Li, H., He, H. and Prokhorov, D., 2018. Model-free real-time EV charging scheduling based on deep reinforcement learning. IEEE Transactions on Smart Grid, 10(5), pp.5246-5257.](RL_charging.jpg)
+
++ Compare to the traditional model-based methods, the RL approach does not require any system model information.
+
+## EV charging station location planning
+![Ameer, H., Wang, Y. and Chen, Z., 2025. A density-based spatial clustering and linear programming method for electric vehicle charging station location and price optimization. Energy, p.134581.](RL_clustering.jpg)
+
++ Apply density-based spatial clustering to identify optimal charging station locations in Hefei City using population, population density, traffic flow, and EV demand density
+
+## Charging dynamic pricing using reinforcement learning
+![Abdalrahman, A. and Zhuang, W., 2020. Dynamic pricing for differentiated PEV charging services using deep reinforcement learning. IEEE Transactions on Intelligent Transportation Systems, 23(2), pp.1415-1427.](RL_pricing.jpg)
+
++ The proposed RL-based differentiated pricing scheme can adaptively adjust service pricing for multiservice charging stations to maximize utilization rate while ensuring service quality satisfaction.
+
+## Machine learning-based online battery management
+![Nozarijouybari, Z. and Fathy, H.K., 2024. Machine learning for battery systems applications: Progress, challenges, and opportunities. Journal of Power Sources, 601, p.234272.](battery.jpg)
+
+## AI application in autonomous driving
++ Nearby vehicles behavior prediction
++ Motion Control
++ Pedestrian Detection
++ Obstacle Detection
++ Lane Recognition
++ Vehicle failure prognosis 
+
+# AI application in residential sakhile
+
+## AI for Banana Disease and Pest Detection
+
+![Selvaraj M G, Vergara A, Ruiz H, et al. AI-powered banana diseases and pest detection [J]. **Plant Methods**, 2019, 15: 1–11.](banana.jpg)
+
++ 1
++ 2 
++ 3
+
+## Slide with speaker notes
+
+I am a [This is red and small]{style="color: red; font-size: 12px;"} word.
+$\tyni ai$
+
+## Framework of Deep Vision Transformer Model for Potato and Tomato Disease Classification
+
+![Kamal S, Sharma P, Gupta P K, et al. DVTXAI: a novel deep vision transformer with an explainable AI-based framework and its application in agriculture[J]. The Journal of Supercomputing, 2025, 81(1): 1-32.](leaf.jpg)
+
+# AI application in power generation corne 
+
+# AI in transmission sakhile
+
+# AI in distribution sakhile
+
+# AI in industry corne
+
+
+
