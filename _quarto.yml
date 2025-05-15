@@ -2,10 +2,14 @@ project:
   type: book
 
 book:
-  
+  title: ""        # Suppress default title
+  author: ""       # Suppress default author
+  date: ""         # Suppress default date
+
+  # Don't include index.qmd here
   chapters:
-    - index.qmd
     - intro.qmd
+    - index.qmd
     - ai_definition.qmd
     - ai_models.qmd
     - ai_tools.qmd
@@ -20,7 +24,14 @@ format:
   html:
     theme: cosmo
     number-sections: true
-    link-citations: true  # <--- Add this line
+    link-citations: true
+    # Custom cover page explicitly set as the homepage
+    include-before-body: index.qmd
+
+  pdf:
+    include-in-header: title_page.tex
+    number-sections: true
+    toc: true
 
 bibliography: references.bib
 csl: ieee.csl
