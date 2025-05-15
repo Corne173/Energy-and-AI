@@ -1,0 +1,34 @@
+# AI application in building
+
+## AI application in charging infrastructure
++ Charging station placement and sizing optimization
++ Charging demand and charging station utilization forecasting
++ Charge and discharging control and coordination
++ Dynamic charging pricing
++ Electric vehicle routing, navigation and charging station selection
+
+## EV charging scheduling based on reinforcement learning
+![Wan, Z., Li, H., He, H. and Prokhorov, D., 2018. Model-free real-time EV charging scheduling based on deep reinforcement learning. IEEE Transactions on Smart Grid, 10(5), pp.5246-5257.](RL_charging.jpg)
+
++ Compare to the traditional model-based methods, the RL approach does not require any system model information.
+
+## EV charging station location planning
+![Ameer, H., Wang, Y. and Chen, Z., 2025. A density-based spatial clustering and linear programming method for electric vehicle charging station location and price optimization. Energy, p.134581.](RL_clustering.jpg)
+
++ Apply density-based spatial clustering to identify optimal charging station locations in Hefei City using population, population density, traffic flow, and EV demand density
+
+## Charging dynamic pricing using reinforcement learning
+![Abdalrahman, A. and Zhuang, W., 2020. Dynamic pricing for differentiated PEV charging services using deep reinforcement learning. IEEE Transactions on Intelligent Transportation Systems, 23(2), pp.1415-1427.](RL_pricing.jpg)
+
++ The proposed RL-based differentiated pricing scheme can adaptively adjust service pricing for multiservice charging stations to maximize utilization rate while ensuring service quality satisfaction.
+
+## Machine learning-based online battery management
+![Nozarijouybari, Z. and Fathy, H.K., 2024. Machine learning for battery systems applications: Progress, challenges, and opportunities. Journal of Power Sources, 601, p.234272.](battery.jpg)
+
+## AI application in autonomous driving
++ Nearby vehicles behavior prediction
++ Motion Control
++ Pedestrian Detection
++ Obstacle Detection
++ Lane Recognition
++ Vehicle failure prognosis 
