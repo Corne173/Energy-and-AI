@@ -11,8 +11,11 @@ Selvaraj *et al.* developed an AI-powered system for banana pest and disease det
 + Potential to scale across plantations  
 
 
-## Potato & Tomato Classification
+## Potato & Tomato Disease Classification
 
 ![Deep Vision Transformer used for potato and tomato disease classification](leaf.jpg)
+
+Table. Performance comparison between Healthy, Early Blight, Late Blight Classes for Potato and Tomato
+![](potatotable.png)
 
 Kamal *et al.* proposed a DVTXAI model, combining deep vision transformers with explainable AI for classifying plant diseases [@kamal2025dvtxai].
