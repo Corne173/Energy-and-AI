@@ -1,5 +1,5 @@
 project:
-  type: website
+  type: book
 
 book:
   title: ""        # Suppress default title
@@ -32,11 +32,6 @@ format:
   pdf:
     include-in-header: title_page.tex
     number-sections: true
-    toc: true
-
-  revealjs:
-    theme: simple
-    slide-number: true
     toc: true
 
 bibliography: references.bib

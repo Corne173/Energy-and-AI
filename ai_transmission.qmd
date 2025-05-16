@@ -1,7 +1,6 @@
 ---
 title: "AI Transmission"
-format: html
-jupyter: python3
+format: revealjs
 ---
 
 # AI in Transmission

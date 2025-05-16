@@ -1,0 +1,29 @@
+---
+title: "Energy and AI: Slide Presentation"
+format: revealjs
+theme: simple
+slide-number: true
+toc: true
+---
+
+{{< include intro.qmd >}}
+
+{{< include ai_definition.qmd >}}
+
+{{< include ai_models.qmd >}}
+
+{{< include ai_tools.qmd >}}
+
+{{< include applications.qmd >}}
+
+{{< include ai_in_agriculture.qmd >}}
+
+{{< include ai_power_generation.qmd >}}
+
+{{< include ai_transmission.qmd >}}
+
+{{< include ai_distribution.qmd >}}
+
+{{< include ai_industry.qmd >}}
+
+{{< include references.qmd >}}
