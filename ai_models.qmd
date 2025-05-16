@@ -23,16 +23,104 @@ Reinforcement Learning discover which actions yield the most reward.
 
 ## Generative Models
 
-## Generative AI Models DONG
+## Generative AI Models 
 
-| Type of AI                            | Core Breakthrough                            | Human Analogy                | Key Differentiator                                                       | Common Techniques                                                           | Practical Examples                                                                  |
-|--------------------------------------|----------------------------------------------|------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Weak AI                               | Execution (Task Performance)                 | Tool                         | Can only complete narrow tasks, not generalize or transfer               | Supervised learning, rule-based systems, decision trees                    | Image classification, speech recognition, recommendation systems                    |
-| Human-like AI                         | Imitation (Reactive Simulation)              | Actor / Mimicker             | Has 'human-like expression' but lacks contextual understanding and goals | NLP, speech recognition, affective computing                               | Customer service bots, social robots, virtual shopping assistants                   |
-| Human-level AI                        | Thinking (Multi-task Reasoning)              | Intern                       | Can 'perform like a human' across multiple tasks                         | Deep learning (DL), reinforcement learning (RL), transfer learning         | AlphaGo, ChatGPT, multimodal Q&A systems                                            |
-| Artificial General Intelligence (AGI) | General Adaptability (Cross-domain Learning) | Colleague / Researcher       | Not only performs tasks like a human, but can generalize and innovate    | Meta-learning, cross-modal learning, self-supervised learning             | Hypothetical OpenCog, DeepMind’s Gato                                               |
-| Strong AI                             | Self-awareness and Moral Judgment            | Independent Human Individual | Understands 'why' something is done, not just 'how'                      | Explainable AI, causal inference, emotion modeling networks                | AI-assisted legal decision systems, interactive mental health AI tools              |
-| Artificial Superintelligence (ASI)    | Superhuman Capability + Self-Improvement     | Deity / Super Being          | Beyond human cognition, unpredictable intentions and paths               | Neuroarchitecture search, self-evolving algorithms                         | AI-led climate modeling, AutoML, AGI governance research (theoretical only)         |
+<style>
+.threeline-table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 16px;
+}
+
+.threeline-table th {
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.threeline-table td {
+  border-bottom: 1px solid #ccc;
+  padding: 8px;
+}
+
+
+.threeline-table tr.last-row td {
+  border-bottom: 3px solid black;
+}
+</style>
+
+<table class="threeline-table">
+  <thead>
+    <tr>
+      <th>Type of AI</th>
+      <th>Core Breakthrough</th>
+      <th>Human Analogy</th>
+      <th>Key Differentiator</th>
+      <th>Common Techniques</th>
+      <th>Practical Examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Weak AI</td>
+      <td>Execution (Task Performance)</td>
+      <td>Tool</td>
+      <td>Can only complete narrow tasks</td>
+      <td>Supervised learning, rule-based systems</td>
+      <td>Image classification, speech recognition</td>
+    </tr>
+    <tr>
+      <td>Human-like AI</td>
+      <td>Imitation (Reactive Simulation)</td>
+      <td>Actor / Mimicker</td>
+      <td>Human-like output, lacks true understanding</td>
+      <td>NLP, affective computing</td>
+      <td>Chatbots, social robots</td>
+    </tr>
+    <tr>
+      <td>Human-level AI</td>
+      <td>Thinking (Multi-task Reasoning)</td>
+      <td>Intern</td>
+      <td>Handles multiple domains like a human</td>
+      <td>Deep learning, RL</td>
+      <td>ChatGPT, AlphaGo</td>
+    </tr>
+    <tr>
+      <td>Artificial General Intelligence</td>
+      <td>General Adaptability</td>
+      <td>Colleague / Researcher</td>
+      <td>Can generalize and innovate</td>
+      <td>Meta-learning, cross-modal learning</td>
+      <td>Hypothetical AGI models</td>
+    </tr>
+    <tr>
+      <td>Strong AI</td>
+      <td>Self-awareness and moral judgment</td>
+      <td>Independent Human</td>
+      <td>Understands "why" as well as "how"</td>
+      <td>Explainable AI, causal inference</td>
+      <td>AI legal tools, mental health support</td>
+    <tr>
+  <td style="border-bottom: 3px solid black;">Artificial Superintelligence</td>
+  <td style="border-bottom: 3px solid black;">Superhuman Capability + Self-Learning</td>
+  <td style="border-bottom: 3px solid black;">Deity / Super Being</td>
+  <td style="border-bottom: 3px solid black;">Beyond human cognition and goals</td>
+  <td style="border-bottom: 3px solid black;">Self-evolving algorithms</td>
+  <td style="border-bottom: 3px solid black;">AGI governance, climate modeling</td>
+</tr>
+
+  </tbody>
+</table>     |
 
 From: [@raman2025agi]
 
+## Generative AI Models
+
+[a: Human Brain vs. BriVL Model: Processing Vision and Language. ]{style="font-size:24px;"}
+
+[b: Comparison of Weak and Strong Semantic Modeling.]{style="font-size:24px;"}
+
+![ ](multimodel.png)
+
+From: [@fei2022towards]
