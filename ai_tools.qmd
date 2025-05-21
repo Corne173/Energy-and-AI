@@ -1,18 +1,13 @@
 # AI Tools
 
-
 ## Programming Languages
 
 At the core of any AI application is the programming language used to build it. The most prominent languages include:
 
 - **Python**: Dominates the AI ecosystem due to its readability, vast collection of AI/ML libraries (e.g., TensorFlow, PyTorch, Scikit-learn), and strong community support.
-
 - **R**: Preferred in statistics-heavy applications, especially for data visualization and exploratory analysis.
-
 - **Java and C++**: Used in large-scale or real-time systems, such as search engines or embedded systems.
-
 - **Julia**: Gaining popularity for high-performance numerical computing in AI research.
-
 
 ---
 
@@ -21,24 +16,29 @@ At the core of any AI application is the programming language used to build it. 
 AI development is driven by libraries that provide pre-built implementations of algorithms and neural network layers:
 
 - **Scikit-learn**: A powerful toolkit for classical machine learning algorithms like linear regression, k-means, and support vector machines.
-
 - **TensorFlow**: A flexible, end-to-end open-source platform by Google for numerical computation and large-scale machine learning, with support for distributed training.
-
 - **PyTorch**: Developed by Meta (Facebook), it is known for its dynamic computation graph and is widely used in academic research and industrial prototyping.
-
 - **Keras**: A high-level deep learning API running on top of TensorFlow, designed for ease of use and fast experimentation.
-
 - **XGBoost**, **LightGBM**, **CatBoost**: Gradient boosting frameworks designed for speed and performance, especially in tabular data modeling competitions like those on Kaggle.
+
+---
 
 ## Hardware Accelerators
 
 Training AI models, particularly deep learning networks, is computationally intensive:
 
 - **GPUs (Graphics Processing Units)**: Enable parallel processing for matrix-heavy operations in neural networks.
-
 - **TPUs (Tensor Processing Units)**: Google's custom-developed ASICs optimized for TensorFlow operations.
-
 - **FPGAs (Field Programmable Gate Arrays)**: Offer flexible, hardware-level customization for AI tasks in edge devices.
 
+---
 
 
+
+## Deployment Architectures for AI Workloads
+
+| **Category**                            | **Purpose**                                                   | **Use Cases**                                                    | **When to Use**                                                             | **Drawbacks**                                                     |
+| --------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Cloud Computing**                     | Centralized compute for large-scale AI training and analytics | Model training, massive data analytics, remote updates           | When latency isn’t critical, and bandwidth & compute resources are abundant | Latency, data privacy, bandwidth usage, dependency on internet    |
+| **Centralized/Local Compute (On-Prem)** | Local high-performance compute in a controlled environment    | Factory servers, industrial control rooms, local model inference | When you need high compute with data security but not strict latency        | Costly infrastructure, limited scalability, power-hungry          |
+| **Edge AI**                             | AI processing directly on-device or close to the data source  | Real-time monitoring, robotics, predictive maintenance           | When latency, connectivity, and power efficiency are critical               | Lower compute limits, model compression needed, difficult updates |
